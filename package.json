@@ -1,0 +1,17 @@
+{
+  "name": "SecureSync API",
+  "version": "1.0.0",
+  "description": "A robust API that simplifies the integration of secure file synchronization across multiple platforms, reducing development time and ensuring data integrity.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3"
+  },
+  "author": "",
+  "license": "MIT"
+}
